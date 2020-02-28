@@ -1,105 +1,70 @@
-# Papers
-运动规划论文，慢慢整理
+# motion planning papers
+
+1. 这个仓库的论文和自动驾驶的运动规划更相关。
+
+2. 因为下载网速的原因，建议到<https://gitee.com/>注册一个帐号，通过gitee下载。
+
+## gitee下载
+1. 复制github的项目地址（注意赋值https协议格式的），如下图所示
+
+![Image](https://github.com/yangmingustb/Papers/blob/master/github.png)
+
+2. 将上面的地址粘贴到gitee中, 如下图所示，点击加号，选择import repository, 再从下面选择从URL导入，并完成仓库导入。
+
+![Image](https://github.com/yangmingustb/Papers/blob/master/gitee.png)
+
+3. 然后使用git clone命令，克隆你的gitee仓库地址，即可快速下载。
 
 
-# 目录
-berkeley
-
-overtake
-
-交叉口
-
-BIT
-
-platform_and_library
-
-交通调查类
-
-CHOMP
-
-决策
-
-CMUboss
-
-RRT
-
-决策综述
-
-CMU_Dolan组 
-
-stanford 
-
-慕尼黑
-
-CMU早期 
-
-survey
-
-强化学习
-
-convex 
-
-北大 
-
-清华
-
-corridors
-
-变道行为 
-
-曲线
-
-DynamicProgramming 
-
-不确定性运动规划 
-
-速度
-
-google 自动驾驶 
-
-采样 
-
-速度障碍物
-
-KITbertha 
-
-采样优化联合 
-
-弹性带
-
-map 
-
-代价函数权重 
-
-我的文献
-
-material of planning
-
-分层规划 
-
-协同
-
-MDP 
-
-风险评估_碰撞检测 
-
-协同驾驶
-
-MIT 
-
-轨迹优化 
-
-预测
-
-ML 
-
-国防科技大学 
-
-预测综述
-
-MPC 
-
-国内其他大学 
-
-自动驾驶总体架构类
-
+## berkeley
+## BIT
+## CHOMP
+## CMUboss
+## CMU_Dolan组
+## CMU早期
+## convex
+## corridors
+## DynamicProgramming
+## google 自动驾驶
+## KITbertha
+## map
+## material of planning
+## MDP
+## MIT
+## ML
+## MPC
+## optimization based
+## overtake
+## platform_and_library
+## RRT
+## stanford
+## 不确定性运动规划
+## 交叉口
+## 交通调查类
+## 代价函数权重
+## 决策
+## 决策综述
+## 分层规划
+## 北大
+## 协同
+## 协同驾驶
+## 变道行为
+## 国内其他大学
+## 国防科技大学
+## 弹性带
+## 强化学习
+## 慕尼黑
+## 我的文献
+## 曲线
+## 汉阳
+## 清华
+## 自动驾驶总体架构类
+## 规划综述
+## 轨迹优化
+## 速度
+## 速度障碍物
+## 采样
+## 采样优化联合
+## 预测
+## 预测综述
+## 风险评估_碰撞检测
